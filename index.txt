@@ -1,0 +1,167 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = Manish Yadav
+Manish Yadav
+Data Engineer
+
+Show Contacts
+
+Email
+manishkumar.gs04@gmail.com
+
+Location
+Noida, Uttar Pradesh, India
+
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+
+# about
+
+About me
+
+I am a Data Engineer with nearly 5 years of experience in designing, building,
+and optimizing scalable data pipelines for analytics and business intelligence
+use cases.
+
+I specialize in Apache Spark, PySpark, Spark SQL, Databricks, Delta Lake, and
+cloud platforms such as AWS and Microsoft Azure. I have hands-on experience
+developing ETL and ELT pipelines, implementing data quality checks, and
+optimizing performance.
+
+Currently working as a Data Engineer at Genpact, I focus on building robust,
+reliable, and scalable data solutions that support data-driven decision-making.
+
+
+## service
+
+What I Do
+
+Data Pipeline Development
+Design and development of scalable batch and streaming data pipelines for
+analytics and reporting use cases.
+
+ETL / ELT Engineering
+Development and optimization of ETL and ELT workflows using Apache Spark,
+Databricks, and SQL.
+
+Cloud Data Platforms
+Building cloud-based data solutions on AWS and Microsoft Azure, including
+storage, compute, and analytics-ready architectures.
+
+Data Optimization & Analytics Enablement
+Performance tuning, data modeling, and dataset optimization to support BI
+tools and analytics teams.
+
+
+## testimonials
+
+Certifications & Learning
+
+Databricks Certified Data Engineer
+Hands-on expertise in Spark, Databricks, and Delta Lake for large-scale data
+processing and analytics.
+
+Microsoft Azure Data Engineer Associate
+Experience designing and implementing cloud-native data solutions on Azure.
+
+AWS Cloud Practitioner
+Strong understanding of AWS cloud fundamentals relevant to data engineering
+workloads.
+
+Continuous Learning
+Actively improving skills in Spark performance tuning, data modeling, Delta
+Lake optimization, and cloud data engineering best practices.
+
+
+## clients
+
+Platforms & Technologies
+
+Apache Spark
+Databricks
+Delta Lake
+AWS
+Microsoft Azure
+SQL & Python
+
+
+# resume
+
+Resume
+
+Education
+
+Bachelor of Technology (B.Tech) – Computer Science Engineering
+GLA University, Mathura
+2016 — 2020
+
+
+Experience
+
+Data Engineer – Genpact
+2022 — Present
+Building and optimizing Spark-based data pipelines on Databricks, working with
+AWS and Azure, and delivering analytics-ready datasets for business use cases.
+
+Data Engineer – Tata Consultancy Services (TCS)
+2020 — 2022
+Developed and maintained batch ETL pipelines using SQL and Python, supporting
+analytics, reporting, and data quality initiatives.
+
+
+Technical Skills
+
+Apache Spark / PySpark / Spark SQL – 85%
+Databricks & Delta Lake – 80%
+SQL & Python – 85%
+AWS & Microsoft Azure – 75%
+ETL / ELT Pipelines & Data Modeling – 80%
+
+
+# portfolio
+
+Portfolio
+
+All
+Data Engineering
+ETL Pipelines
+Cloud
+
+Spark-Based ETL Pipeline
+Databricks & Delta Lake Pipeline
+Cloud Data Platform (AWS & Azure)
+Data Quality & Validation Framework
+SQL & Performance Optimization
+
+
+# blog
+
+Blog
+
+Optimizing Apache Spark Jobs for Performance
+Delta Lake Best Practices in Databricks
+ETL vs ELT: Choosing the Right Approach
+SQL Optimization Techniques for Large Datasets
+Designing Scalable Cloud Data Architectures
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full Name
+Email Address
+Your Message
+
+Send Message
