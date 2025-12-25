@@ -1903,3 +1903,12 @@ textarea.form-input::-webkit-resizer { display: none; }
     grid-template-columns: 1fr;
   }
 }
+
+.btn {
+  background: #14b8a6; /* teal */
+  color: #ffffff;
+}
+
+.btn:hover {
+  background: #0d9488;
+}
