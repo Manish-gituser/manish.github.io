@@ -157,3 +157,9 @@ for (let i = 0; i < navigationLinks.length; i++) {
 
   });
 }
+
+document.querySelectorAll('[data-stop-propagation]').forEach(link => {
+  link.addEventListener('click', function (event) {
+    event.stopPropagation();
+  });
+});
