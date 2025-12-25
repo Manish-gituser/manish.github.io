@@ -1945,3 +1945,8 @@ textarea.form-input::-webkit-resizer { display: none; }
   opacity: 0.6;
 }
 
+.testimonials-item a {
+  pointer-events: auto;
+  position: relative;
+  z-index: 10;
+}
