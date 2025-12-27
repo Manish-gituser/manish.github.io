@@ -1157,34 +1157,52 @@ Currently working as a Data Engineer at Genpact, focused on building robust, pro
   </section>
 
   <!-- ===== CONTACT FORM ===== -->
-  <section class="contact-form">
+ <!-- ===== CONTACT FORM ===== -->
+<section class="contact-form">
 
-    <h3 class="h3 form-title">Send a Message</h3>
+  <h3 class="h3 form-title">Send a Message</h3>
 
-    <form action="mailto:manishkumar.gs04@gmail.com" method="POST" enctype="text/plain" class="form">
+  <form
+    action="mailto:manishkumar.gs04@gmail.com?subject=Portfolio Contact"
+    method="GET"
+    enctype="text/plain"
+    class="form"
+  >
 
+    <div class="input-wrapper">
+      <input
+        type="text"
+        name="Full Name"
+        class="form-input"
+        placeholder="Full Name"
+        required
+      >
 
-      <div class="input-wrapper">
-        <input type="text" name="fullname" class="form-input"
-               placeholder="Full Name" required data-form-input>
+      <input
+        type="email"
+        name="Email"
+        class="form-input"
+        placeholder="Email Address"
+        required
+      >
+    </div>
 
-        <input type="email" name="email" class="form-input"
-               placeholder="Email Address" required data-form-input>
-      </div>
+    <textarea
+      name="Message"
+      class="form-input"
+      placeholder="Your Message"
+      required
+    ></textarea>
 
-      <textarea name="message" class="form-input"
-                placeholder="Your Message" required data-form-input></textarea>
+    <button class="form-btn" type="submit">
+      <ion-icon name="paper-plane"></ion-icon>
+      <span>Send Message</span>
+    </button>
 
+  </form>
 
-        <button class="form-btn" type="submit">
+</section>
 
-        <ion-icon name="paper-plane"></ion-icon>
-        <span>Send Message</span>
-      </button>
-
-    </form>
-
-  </section>
 
 </div>
 
