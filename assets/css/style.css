@@ -1972,3 +1972,19 @@ textarea.form-input::-webkit-resizer { display: none; }
   display: none !important;
   pointer-events: none !important;
 }
+
+/* ===============================
+   Smooth page transitions
+   =============================== */
+
+article {
+  opacity: 0;
+  transform: translateY(10px);
+  transition: opacity 0.35s ease, transform 0.35s ease;
+}
+
+article.active {
+  display: block;            /* keep your existing behavior */
+  opacity: 1;
+  transform: translateY(0);
+}
