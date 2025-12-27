@@ -2097,3 +2097,40 @@ article.active {
 .testimonials-text p {
   line-height: 1.6;
 }
+/* ===============================
+   Mobile card height consistency
+   =============================== */
+
+/* Small phones (up to ~375px) */
+@media (max-width: 375px) {
+  .content-card {
+    display: flex;
+    flex-direction: column;
+    min-height: 300px;
+  }
+
+  .testimonials-text {
+    flex-grow: 1;
+  }
+
+  .cert-cta {
+    margin-top: auto;
+  }
+}
+
+/* Larger phones (376px to 768px) */
+@media (min-width: 376px) and (max-width: 768px) {
+  .content-card {
+    display: flex;
+    flex-direction: column;
+    min-height: 340px;
+  }
+
+  .testimonials-text {
+    flex-grow: 1;
+  }
+
+  .cert-cta {
+    margin-top: auto;
+  }
+}
