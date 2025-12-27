@@ -509,6 +509,7 @@ main {
 
 .service { margin-bottom: 35px; }
 
+
 .service-title {
   margin-bottom: 20px;
   display: flex;
@@ -545,6 +546,9 @@ main {
   background: var(--bg-gradient-jet);
   border-radius: inherit;
   z-index: -1;
+}
+.service-item {
+  min-height: 260px;
 }
 
 .service-icon-box { margin-bottom: 10px; }
