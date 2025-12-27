@@ -2181,4 +2181,22 @@ article.active {
   filter: grayscale(0);
 }
 
+.contact-form {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.03),
+    rgba(255, 255, 255, 0.01)
+  );
+  padding: 24px;
+  border-radius: 18px;
+}
+.form-btn {
+  background: var(--bg-gradient-yellow-1);
+  color: var(--smoky-black);
+  font-weight: var(--fw-600);
+}
+
+.form-btn:hover {
+  background: var(--bg-gradient-yellow-2);
+}
 
