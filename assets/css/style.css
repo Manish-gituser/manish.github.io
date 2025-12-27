@@ -1950,3 +1950,21 @@ textarea.form-input::-webkit-resizer { display: none; }
   position: relative;
   z-index: 10;
 }
+/* ===============================
+   Certification Click Fix
+   =============================== */
+
+.content-card::before {
+  pointer-events: none;
+}
+
+.cert-link {
+  position: relative;
+  z-index: 20;
+  pointer-events: auto;
+  cursor: pointer;
+}
+
+.testimonials-item a {
+  pointer-events: auto;
+}
